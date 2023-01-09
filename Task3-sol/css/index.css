@@ -1,0 +1,17 @@
+#mainCont {
+	float: left;
+	width: 70%;
+}
+
+#mainCont .centerImgs img {
+	border: thin solid #fff;
+	padding: 3px;
+}
+
+#sideBar {
+	float: right;
+	width: 27%;
+}
+#sideBar p {
+	font-size: 0.8rem;
+}
